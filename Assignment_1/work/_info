@@ -1,0 +1,63 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modeltech64_10.5/examples
+T_opt
+!s110 1647092633
+VHneEck4BaNTTiYj8hN53m2
+04 13 4 work Full_Adder_tb fast 0
+=1-98fa9b43f53b-622ca398-2aa-db58
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vFull_Adder
+!s110 1647092559
+!i10b 1
+!s100 Q2U3nQMGg3Ah1f:WHJ[E32
+IA[@J@5ezYA<_XM6amm>ei3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/VS_Code_Verilog/Assignment_1
+w1647092069
+8D:\VS_Code_Verilog\Assignment_1\Full_Adder.v
+FD:\VS_Code_Verilog\Assignment_1\Full_Adder.v
+L0 1
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1647092559.000000
+!s107 D:\VS_Code_Verilog\Assignment_1\Full_Adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_1\Full_Adder.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@full_@adder
+vFull_Adder_tb
+!s110 1647092560
+!i10b 1
+!s100 fD:TCJhG8g4NiHU>=g9_@2
+IjU;=aE05dEn7_Y]o@1?bM1
+R1
+R2
+w1647092028
+8D:\VS_Code_Verilog\Assignment_1\Full_Adder_tb.v
+FD:\VS_Code_Verilog\Assignment_1\Full_Adder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1647092560.000000
+!s107 D:\VS_Code_Verilog\Assignment_1\Full_Adder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_1\Full_Adder_tb.v|
+!i113 0
+R4
+R0
+n@full_@adder_tb

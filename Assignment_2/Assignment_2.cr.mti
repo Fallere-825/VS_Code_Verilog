@@ -1,0 +1,22 @@
+D:/VS_Code_Verilog/Assignment_2/Shift_Register.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Assignment_2/Shift_Register.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}} D:/VS_Code_Verilog/Assignment_2/Equal_Operator.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Assignment_2/Equal_Operator.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Equal_Operator
+
+Top level modules:
+	Equal_Operator
+
+} {} {}} D:/VS_Code_Verilog/Assignment_2/Shift_Register_tb.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Assignment_2/Shift_Register_tb.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module shift_hb
+
+Top level modules:
+	shift_hb
+
+} {} {}}

@@ -1,0 +1,890 @@
+m255
+K4
+z0
+vAdder_CLA
+!s110 1666317398
+!i10b 1
+!s100 K00kTa2M4l6BH9LKSDYUb2
+Im8bPHjm2Z^a:IUzOFkX5M2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dd:/VS_Code_Verilog/Project
+w1651594245
+8d:\VS_Code_Verilog\Project\Adder_CLA.v
+Fd:\VS_Code_Verilog\Project\Adder_CLA.v
+L0 2
+Z2 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1666317398.000000
+!s107 d:\VS_Code_Verilog\Project\Adder_CLA.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Project\Adder_CLA.v|
+!i113 0
+Z3 o-nologo -work {D:\VS_Code_Verilog\work} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+n@adder_@c@l@a
+vAdder_CLA4
+!s110 1666317399
+!i10b 1
+!s100 czn>6]dMjnLXfK<obG3CE3
+I>@kINa6LooJ[X`AzRMD;Y2
+R0
+R1
+w1651501198
+8d:\VS_Code_Verilog\Project\Adder_CLA4.v
+Fd:\VS_Code_Verilog\Project\Adder_CLA4.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1666317399.000000
+!s107 d:\VS_Code_Verilog\Project\Adder_CLA4.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Project\Adder_CLA4.v|
+!i113 0
+R3
+R4
+n@adder_@c@l@a4
+vbinbcd8
+!s110 1652024078
+!i10b 1
+!s100 n4[N5`AH;TM:C]=TNmCJd1
+I6HBmBAjnkQJV@9D1@k=T11
+R0
+Z5 dD:/Microsoft VS Code
+w1639491889
+8d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\binbcd8.v
+Fd:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\binbcd8.v
+L0 24
+R2
+r1
+!s85 0
+31
+!s108 1652024078.000000
+!s107 d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\binbcd8.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\binbcd8.v|
+!i113 0
+R3
+R4
+vclk_div
+!s110 1652024076
+!i10b 1
+!s100 Un=D]?OS86W_e4nm0YzWJ2
+II;ReQ?W5E3?c2JI[Qh^di2
+R0
+R5
+w1639308084
+8d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\clk_div.v
+Fd:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\clk_div.v
+Z6 L0 23
+R2
+r1
+!s85 0
+31
+!s108 1652024076.000000
+!s107 d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\clk_div.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\clk_div.v|
+!i113 0
+R3
+R4
+vdata_in
+!s110 1667459407
+!i10b 1
+!s100 dBH]BEG2;QDfoIh?dfXeB3
+I;c^bMSY?Wo?EPNbW?BZQb2
+R0
+R5
+w1667459407
+8d:\Tencent Files\1617655423\FileRecv\uart\data_in.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\data_in.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667459407.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\data_in.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\data_in.v|
+!i113 0
+R3
+R4
+vdata_in_32to8
+!s110 1667392145
+!i10b 1
+!s100 FFVSaifdnf6OaMMl90`8`2
+ITGAe=JiJPG0Wk[3[E;iFn2
+R0
+R5
+w1667392145
+8d:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v
+Fd:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667392145.000000
+!s107 d:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v|
+!i113 0
+R3
+R4
+vdata_in_64_to_8
+!s110 1667498112
+!i10b 1
+!s100 :Ji0D4?75[ZYDVF]MMFQM0
+IU17hEVHcLBYQZ5`^Fd7^l3
+R0
+Z7 dd:/VS_Code_Verilog/github_verilog
+Z8 w1667497805
+8d:\VS_Code_Verilog\github_verilog\Course_Design\data_in_64_to_8.v
+Fd:\VS_Code_Verilog\github_verilog\Course_Design\data_in_64_to_8.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667498112.000000
+!s107 d:\VS_Code_Verilog\github_verilog\Course_Design\data_in_64_to_8.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\github_verilog\Course_Design\data_in_64_to_8.v|
+!i113 0
+R3
+R4
+vdata_in_test
+!s110 1667398660
+!i10b 1
+!s100 :47ek8YEAdXg:;8@U_EJ82
+IC<:D?mc9Z<z=<FMYD1GBa0
+R0
+R5
+w1666701051
+8d:\Tencent Files\1617655423\FileRecv\uart\data_in_test.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\data_in_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667398659.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\data_in_test.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\data_in_test.v|
+!i113 0
+R3
+R4
+vdata_out
+!s110 1667464938
+!i10b 1
+!s100 =b7jNmR=@<X2LaT;;Bb`K0
+IEED3nPH^J4[i6FT;OZGjg2
+R0
+R5
+w1667303658
+8d:\Tencent Files\1617655423\FileRecv\uart\data_out.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\data_out.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667464938.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\data_out.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\data_out.v|
+!i113 0
+R3
+R4
+vdata_out_8_to32
+!s110 1667499133
+!i10b 1
+!s100 4z@_OMD@M8IMM_7Z=]z?]3
+I>nmggKnezGFnc4<fhm>9P0
+R0
+R5
+w1667498186
+8d:\VS_Code_Verilog\Course_Design\data_out_8_to32.v
+Fd:\VS_Code_Verilog\Course_Design\data_out_8_to32.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667499133.000000
+!s107 d:\VS_Code_Verilog\Course_Design\data_out_8_to32.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\data_out_8_to32.v|
+!i113 0
+R3
+R4
+vdata_out_8_to_64
+!s110 1667498279
+!i10b 1
+!s100 6RD5Pz9o28g^GILe`YY`T2
+I6dCN7faEGVUhkg@B9:9zK2
+R0
+R7
+R8
+8d:\VS_Code_Verilog\github_verilog\Course_Design\data_out_8_to_64.v
+Fd:\VS_Code_Verilog\github_verilog\Course_Design\data_out_8_to_64.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667498279.000000
+!s107 d:\VS_Code_Verilog\github_verilog\Course_Design\data_out_8_to_64.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\github_verilog\Course_Design\data_out_8_to_64.v|
+!i113 0
+R3
+R4
+vmonitor_1001
+!s110 1667498851
+!i10b 1
+!s100 PXN7O`JQ`C3^fW:9UT4kB3
+I>DQh=nfXIEWc3bzPHXSdX0
+R0
+Z9 dd:/VS_Code_Verilog
+w1648732546
+8d:\VS_Code_Verilog\Assignment_4\monitor_1001.v
+Fd:\VS_Code_Verilog\Assignment_4\monitor_1001.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667498851.000000
+!s107 d:\VS_Code_Verilog\Assignment_4\monitor_1001.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Assignment_4\monitor_1001.v|
+!i113 0
+R3
+R4
+vmy_uart_tx
+!s110 1667408407
+!i10b 1
+!s100 Y75<Gbb?=zUUGlLz:Q[H32
+IXfRK@D7bA^Qb_VPel<Ldl1
+R0
+R5
+w1667408407
+Z10 8d:\VS_Code_Verilog\Course_Design\uart_tx.v
+Z11 Fd:\VS_Code_Verilog\Course_Design\uart_tx.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667408407.000000
+Z12 !s107 d:\VS_Code_Verilog\Course_Design\uart_tx.v|
+Z13 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_tx.v|
+!i113 0
+R3
+R4
+vreceiver
+!s110 1667446379
+!i10b 1
+!s100 4DJ`BTjf_5D`>IJ`@]?771
+IMLGST2O;80@MAL2h`i8TC0
+R0
+R5
+w1667317420
+8d:\Tencent Files\1617655423\FileRecv\uart\receiver.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\receiver.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667446378.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\receiver.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\receiver.v|
+!i113 0
+R3
+R4
+vreceiver_test
+!s110 1667378405
+!i10b 1
+!s100 zSNK@Lmgnh<FDR_A^WUIR3
+IZNAO7a`L_>>TL>oGQ@i^`0
+R0
+R5
+w1666712169
+8d:\Tencent Files\1617655423\FileRecv\uart\receiver_test.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\receiver_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667378405.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\receiver_test.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\receiver_test.v|
+!i113 0
+R3
+R4
+vsend_top
+!s110 1667398911
+!i10b 1
+!s100 z4V;doGG>2>n[Q4EVo5Gl1
+Ijd73A9O=jl]Tidm6I[kO;3
+R0
+R5
+w1666690582
+8d:\Tencent Files\1617655423\FileRecv\uart\send_top.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\send_top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667398911.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\send_top.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\send_top.v|
+!i113 0
+R3
+R4
+vsend_top_test
+!s110 1667447968
+!i10b 1
+!s100 o^>^`4<a6WaEf060m96=a2
+INgDPlLYWlb7bkeWoJ`=hJ2
+R0
+R5
+w1666703848
+8d:\Tencent Files\1617655423\FileRecv\uart\send_top_test.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\send_top_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667447968.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\send_top_test.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\send_top_test.v|
+!i113 0
+R3
+R4
+vtb_data_in_64_to_8
+!s110 1667462179
+!i10b 1
+!s100 R:oZ<d=NY2YL]fK1TXlDS0
+I2<YY<72Im^ZaK818AfNaI0
+R0
+R5
+w1667396058
+8d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v
+Fd:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667462179.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v|
+!i113 0
+R3
+R4
+vtb_monitor_1001
+!s110 1667498846
+!i10b 1
+!s100 VCZRW_?WW03mgzI0F[ZfQ0
+I<EW:NPbZ9Rbk7Y^BS^An00
+R0
+R9
+w1648732988
+8d:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v
+Fd:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667498846.000000
+!s107 d:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v|
+!i113 0
+R3
+R4
+vtb_top
+!s110 1667498160
+!i10b 1
+!s100 0[iABcAJIJ;e4j=ea_FBa2
+IZ]TlY:O>:f3KD=ce83h_f0
+R0
+R7
+R8
+8d:\VS_Code_Verilog\github_verilog\Course_Design\tb_top.v
+Fd:\VS_Code_Verilog\github_verilog\Course_Design\tb_top.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667498159.000000
+!s107 d:\VS_Code_Verilog\github_verilog\Course_Design\tb_top.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\github_verilog\Course_Design\tb_top.v|
+!i113 0
+R3
+R4
+vtb_top_in
+!s110 1667463960
+!i10b 1
+!s100 8XLV3P9f2H?lgj3boZ::[3
+IhzC2KOQTlgD;1TQF4fond2
+R0
+R5
+w1667463960
+8d:\VS_Code_Verilog\Course_Design\tb_top_in.v
+Fd:\VS_Code_Verilog\Course_Design\tb_top_in.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667463960.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_top_in.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_in.v|
+!i113 0
+R3
+R4
+vtb_Traffic_Light
+!s110 1667376756
+!i10b 1
+!s100 [[l>8OoWih=Q9M@lCNT`>0
+IKKze9igU;>K`<FWjRlib?3
+R0
+R5
+w1651731568
+8d:\VS_Code_Verilog\Project\tb_Traffic_Light.v
+Fd:\VS_Code_Verilog\Project\tb_Traffic_Light.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667376756.000000
+!s107 d:\VS_Code_Verilog\Project\tb_Traffic_Light.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Project\tb_Traffic_Light.v|
+!i113 0
+R3
+R4
+ntb_@traffic_@light
+vtb_uart_rx
+!s110 1667458247
+!i10b 1
+!s100 P4aEALALQQ>OSk9W[5PfM3
+II_PEaFz7Ffn4bKdbRhUh53
+R0
+R5
+w1667458247
+8d:\VS_Code_Verilog\Course_Design\tb_uart_rx.v
+Fd:\VS_Code_Verilog\Course_Design\tb_uart_rx.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667458247.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_uart_rx.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_uart_rx.v|
+!i113 0
+R3
+R4
+vtb_uart_tx
+!s110 1667457363
+!i10b 1
+!s100 gVjJ4^;g[>?A^1_FT2ADd0
+IbFK4f1kMCoh?b^cYIEB[P2
+R0
+R5
+w1667457363
+8d:\VS_Code_Verilog\Course_Design\tb_uart_tx.v
+Fd:\VS_Code_Verilog\Course_Design\tb_uart_tx.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667457363.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_uart_tx.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_uart_tx.v|
+!i113 0
+R3
+R4
+vtb_uart_tx_to_rx
+!s110 1667458917
+!i10b 1
+!s100 Uj<Z:cdID15;]>_?kZYIW0
+IhT6fiQlYW5G@jik70TZBR3
+R0
+R5
+w1667458917
+8d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v
+Fd:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667458917.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v|
+!i113 0
+R3
+R4
+vtestlatch
+!s110 1651918470
+!i10b 1
+!s100 3NSeH@@AhadCiihQX=`[X1
+I0gfIEzSil4^iKNA9MU7>P2
+R0
+R5
+w1651918470
+8d:\Xilinx\Project\project_1\project_1.srcs\sources_1\new\testlatch.v
+Fd:\Xilinx\Project\project_1\project_1.srcs\sources_1\new\testlatch.v
+R6
+R2
+r1
+!s85 0
+31
+!s108 1651918470.000000
+!s107 d:\Xilinx\Project\project_1\project_1.srcs\sources_1\new\testlatch.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Xilinx\Project\project_1\project_1.srcs\sources_1\new\testlatch.v|
+!i113 0
+R3
+R4
+vtop
+!s110 1667487035
+!i10b 1
+!s100 j6kf]299>o67=3oJM1ImG3
+IE;Dfe4YF]emhFLVI5:Q7S0
+R0
+R5
+w1667487035
+8d:\VS_Code_Verilog\Course_Design\top.v
+Fd:\VS_Code_Verilog\Course_Design\top.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667487035.000000
+!s107 d:\VS_Code_Verilog\Course_Design\top.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\top.v|
+!i113 0
+R3
+R4
+vtop_in
+!s110 1667541066
+!i10b 1
+!s100 PY1`l`eQAHFRn[HX4PKoP3
+ICiODMLYD`DWkMF8aYnJZ^1
+R0
+R9
+R8
+8d:\VS_Code_Verilog\Course_Design\top_in.v
+Fd:\VS_Code_Verilog\Course_Design\top_in.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667541066.000000
+!s107 d:\VS_Code_Verilog\Course_Design\top_in.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\top_in.v|
+!i113 0
+R3
+R4
+vtop_out
+!s110 1667467423
+!i10b 1
+!s100 3WLb``MgSS7S8C8>4H6ZU1
+IQniaDRMEk4Q2T0nj^EQmP3
+R0
+R5
+w1667467423
+8d:\VS_Code_Verilog\Course_Design\top_out.v
+Fd:\VS_Code_Verilog\Course_Design\top_out.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667467423.000000
+!s107 d:\VS_Code_Verilog\Course_Design\top_out.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\top_out.v|
+!i113 0
+R3
+R4
+vtotal_top
+!s110 1667391858
+!i10b 1
+!s100 i_g4iW[SmEQ0eT62HNRkM1
+I?HL@Wc?Q8g:7Yj^3N<bl[2
+R0
+R5
+w1666716602
+8d:\Tencent Files\1617655423\FileRecv\uart\total_top.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\total_top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667391858.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\total_top.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\total_top.v|
+!i113 0
+R3
+R4
+vTraffic_Light
+!s110 1667376746
+!i10b 1
+!s100 MgGF1:o[7_B12W1:=5YK^2
+I_@l?l0z=FFN>=lecTZ9NJ3
+R0
+R5
+w1651681148
+8d:\VS_Code_Verilog\Project\Traffic_Light.v
+Fd:\VS_Code_Verilog\Project\Traffic_Light.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1667376746.000000
+!s107 d:\VS_Code_Verilog\Project\Traffic_Light.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Project\Traffic_Light.v|
+!i113 0
+R3
+R4
+n@traffic_@light
+vtransmitter
+!s110 1667445885
+!i10b 1
+!s100 W:jOKSVRJO7OFP`SNM0aB0
+IgNGa]nTG^L]`b2eIfinY=0
+R0
+R5
+w1667308690
+8d:\Tencent Files\1617655423\FileRecv\uart\transmitter.v
+Fd:\Tencent Files\1617655423\FileRecv\uart\transmitter.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667445885.000000
+!s107 d:\Tencent Files\1617655423\FileRecv\uart\transmitter.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Tencent Files\1617655423\FileRecv\uart\transmitter.v|
+!i113 0
+R3
+R4
+vtx
+!s110 1667407481
+!i10b 1
+!s100 @:ZNQDzXAQJ?EJahXBPTb1
+In8aTD;ZZ<:W@RE]HnToT?3
+R0
+R5
+w1667407481
+R10
+R11
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1667407481.000000
+R12
+R13
+!i113 0
+R3
+R4
+vtxd
+!s110 1666575167
+!i10b 1
+!s100 a96jVlfYVeUSMRZLZ8jih2
+IKClK2RHA6PLCiXfof@WAY1
+R0
+R5
+w1562143778
+8e:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\send0.v
+Fe:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\send0.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1666575167.000000
+!s107 e:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\send0.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|e:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\send0.v|
+!i113 0
+R3
+R4
+vUART
+!s110 1666579461
+!i10b 1
+!s100 jR>^Oca<5776NfAWA]cz`1
+IM=kiAg3Q^nV>24M=maI]=3
+R0
+R5
+w1562114894
+8e:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\UART.v
+Fe:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\UART.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1666579461.000000
+!s107 e:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\UART.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|e:\2019春季-大三下\付方发-数集课设\2019课设\接收整合\接收整合\UART.v|
+!i113 0
+R3
+R4
+n@u@a@r@t
+vuart_recv
+!s110 1667405479
+!i10b 1
+!s100 n4XfIE=Jjdb^=]5O_d6Q;3
+IjZG5YT`a9_5_:hfoES?DD0
+R0
+R5
+w1667405479
+Z14 8d:\VS_Code_Verilog\Course_Design\uart_rx.v
+Z15 Fd:\VS_Code_Verilog\Course_Design\uart_rx.v
+L0 7
+R2
+r1
+!s85 0
+31
+!s108 1667405479.000000
+Z16 !s107 d:\VS_Code_Verilog\Course_Design\uart_rx.v|
+Z17 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_rx.v|
+!i113 0
+R3
+R4
+vuart_rx
+!s110 1667463592
+!i10b 1
+!s100 EP=E0QKOmH9bAa0XLoP2o3
+I;L61E0b]k_56nYjHV;d@_3
+R0
+R5
+w1667463591
+R14
+R15
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667463591.000000
+R16
+R17
+!i113 0
+R3
+R4
+vuart_rx_32to8
+!s110 1667308063
+!i10b 1
+!s100 k3dzK7gU?:k`AaIbECUOA1
+I47TM]3TR]`NiRk?3BP=9F1
+R0
+R5
+w1667308063
+8d:\VS_Code_Verilog\Course_Design\uart_rx_32to8.v
+Fd:\VS_Code_Verilog\Course_Design\uart_rx_32to8.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667308063.000000
+!s107 d:\VS_Code_Verilog\Course_Design\uart_rx_32to8.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_rx_32to8.v|
+!i113 0
+R3
+R4
+vuart_send
+!s110 1667405483
+!i10b 1
+!s100 H7TzKlnlU;PUS8BKioR?N2
+I:^N7Lzm_;0GI37_Y3FTHW0
+R0
+R5
+w1667405483
+R10
+R11
+L0 8
+R2
+r1
+!s85 0
+31
+!s108 1667405483.000000
+R12
+R13
+!i113 0
+R3
+R4
+vuart_tx
+!s110 1667498029
+!i10b 1
+!s100 6jYBnfB8CCY6T9iJgP2b:2
+I9oi_>W=zn[KZ87lfEDWNX1
+R0
+R7
+R8
+8d:\Desktop\github_verilog-main\Course_Design\uart_tx.v
+Fd:\Desktop\github_verilog-main\Course_Design\uart_tx.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1667498029.000000
+!s107 d:\Desktop\github_verilog-main\Course_Design\uart_tx.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Desktop\github_verilog-main\Course_Design\uart_tx.v|
+!i113 0
+R3
+R4
+vuart_tx_to_rx
+!s110 1667458748
+!i10b 1
+!s100 EfYN:m:22Y3kB2KHdXKUR3
+ILScI3Nzf07ZoWMYUD4cLS1
+R0
+R5
+w1667458748
+8d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v
+Fd:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667458748.000000
+!s107 d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v|
+!i113 0
+R3
+R4
+vx7seg
+!s110 1652024087
+!i10b 1
+!s100 ZN`:`nZQ0RS@`VzDO<g3l3
+I_acbH>T>mC?N^70d@fUAl0
+R0
+R5
+w1639494914
+8d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\x7seg.v
+Fd:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\x7seg.v
+R6
+R2
+r1
+!s85 0
+31
+!s108 1652024087.000000
+!s107 d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\x7seg.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\Xilinx\Project\Traffic_Light_clk\Traffic_Light_clk.srcs\sources_1\new\x7seg.v|
+!i113 0
+R3
+R4

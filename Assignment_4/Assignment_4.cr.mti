@@ -1,0 +1,25 @@
+D:/VS_Code_Verilog/Assignment_4/always_test.v {0 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_4\always_test.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module always_test
+** Error: (vlog-13069) D:\VS_Code_Verilog\Assignment_4\always_test.v(7): near "always": syntax error, unexpected always.
+
+} {4.0 5.0} {}} D:/VS_Code_Verilog/Assignment_4/initial_test.v {0 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_4\initial_test.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module initial_test
+** Error: (vlog-13069) D:\VS_Code_Verilog\Assignment_4\initial_test.v(7): near "initial": syntax error, unexpected initial.
+
+} {4.0 5.0} {}} D:/VS_Code_Verilog/Assignment_4/monitor_1001.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Assignment_4/monitor_1001.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module monitor_1001
+
+Top level modules:
+	monitor_1001
+
+} {} {}} D:/VS_Code_Verilog/Assignment_4/tb_monitor_1001.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_monitor_1001
+
+Top level modules:
+	tb_monitor_1001
+
+} {} {}}

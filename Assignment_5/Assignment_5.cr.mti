@@ -1,0 +1,71 @@
+D:/VS_Code_Verilog/Assignment_5/parallel_to_serial.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\parallel_to_serial.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module parallel_to_serial
+
+Top level modules:
+	parallel_to_serial
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/tb_decoder38.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\tb_decoder38.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_decoder38
+
+Top level modules:
+	tb_decoder38
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/tb_parallel_to_serial.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\tb_parallel_to_serial.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_parallel_to_serial
+
+Top level modules:
+	tb_parallel_to_serial
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/decoder38_vector.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\decoder38_vector.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module decoder38_vector
+
+Top level modules:
+	decoder38_vector
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/example.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\example.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module example
+
+Top level modules:
+	example
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/tb_decoder38_vector.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\tb_decoder38_vector.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_decoder38_vector
+
+Top level modules:
+	tb_decoder38_vector
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/s74194.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\s74194.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module s74194
+
+Top level modules:
+	s74194
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/tb_example.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\tb_example.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_example
+
+Top level modules:
+	tb_example
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/tb_s74194.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\tb_s74194.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_s74194
+
+Top level modules:
+	tb_s74194
+
+} {} {}} D:/VS_Code_Verilog/Assignment_5/decoder38.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Assignment_5\decoder38.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module decoder38
+
+Top level modules:
+	decoder38
+
+} {} {}}

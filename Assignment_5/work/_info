@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VS_Code_Verilog/Assignment_4
+T_opt
+!s110 1649425297
+V:2<mdc[52J0:i`>QV=B]O3
+04 12 4 work tb_decoder38 fast 0
+=1-98fa9b43f53b-62503b91-7a-8d84
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1649428086
+VfO_JK3J6M1ghYSahDm4CG3
+04 13 4 work seqlogic_test fast 0
+=4-98fa9b43f53b-62504676-1c5-74e4
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1649424405
+Vg3Sdn3PeXS1eUCk0g5A7?3
+04 9 4 work tb_s74194 fast 0
+=1-98fa9b43f53b-62503815-50-65f4
+R1
+R2
+n@_opt2
+R3
+R0
+vdecoder38
+Z4 !s110 1649428080
+!i10b 1
+!s100 lTXO?`>6c<2IS2dmFbVCJ1
+I20YN:]IEEUknD?99BCLB11
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/VS_Code_Verilog/Assignment_5
+w1649349305
+8D:\VS_Code_Verilog\Assignment_5\decoder38.v
+FD:\VS_Code_Verilog\Assignment_5\decoder38.v
+L0 1
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1649428080.000000
+!s107 D:\VS_Code_Verilog\Assignment_5\decoder38.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\decoder38.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdecoder38_vector
+R4
+!i10b 1
+!s100 moAcOJ1BQEYi3_oI=:BC51
+I:lDZFL_d_mi9]k<aZgSLA3
+R5
+R6
+w1649350292
+8D:\VS_Code_Verilog\Assignment_5\decoder38_vector.v
+FD:\VS_Code_Verilog\Assignment_5\decoder38_vector.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_5\decoder38_vector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\decoder38_vector.v|
+!i113 0
+R9
+R2
+vexample
+R4
+!i10b 1
+!s100 `lejg?17^9?Pa1>o`nGQC2
+ISZBOVD6Qob[MIhnZ_;1^g0
+R5
+R6
+w1649409390
+8D:\VS_Code_Verilog\Assignment_5\example.v
+FD:\VS_Code_Verilog\Assignment_5\example.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_5\example.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\example.v|
+!i113 0
+R9
+R2
+vparallel_to_serial
+Z10 !s110 1649428081
+!i10b 1
+!s100 AP_c4l4OCVj6jS[8:V[?23
+IE8Y_3Ic@VbG;RQPkKDbhY3
+R5
+R6
+w1649414920
+8D:\VS_Code_Verilog\Assignment_5\parallel_to_serial.v
+FD:\VS_Code_Verilog\Assignment_5\parallel_to_serial.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_5\parallel_to_serial.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\parallel_to_serial.v|
+!i113 0
+R9
+R2
+vs74194
+R10
+!i10b 1
+!s100 8lD7B9lUUDj<PeE[1e?LP3
+IUAf?E^g5oN9A3FPS;JZIG3
+R5
+R6
+w1649417299
+8D:\VS_Code_Verilog\Assignment_5\s74194.v
+FD:\VS_Code_Verilog\Assignment_5\s74194.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z11 !s108 1649428081.000000
+!s107 D:\VS_Code_Verilog\Assignment_5\s74194.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\s74194.v|
+!i113 0
+R9
+R2
+vtb_decoder38
+R4
+!i10b 1
+!s100 ;;LZYoNoU@Lj?S>0k9R5X2
+IDHYSzA?LWdI^XGW4Ok<IO1
+R5
+R6
+w1649350649
+8D:\VS_Code_Verilog\Assignment_5\tb_decoder38.v
+FD:\VS_Code_Verilog\Assignment_5\tb_decoder38.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_5\tb_decoder38.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\tb_decoder38.v|
+!i113 0
+R9
+R2
+vtb_decoder38_vector
+R4
+!i10b 1
+!s100 9E^`QNo^H4X38`;CQQ:4U2
+IAO7B;YoXheHQmi11Nl:L83
+R5
+R6
+w1649350654
+8D:\VS_Code_Verilog\Assignment_5\tb_decoder38_vector.v
+FD:\VS_Code_Verilog\Assignment_5\tb_decoder38_vector.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_5\tb_decoder38_vector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\tb_decoder38_vector.v|
+!i113 0
+R9
+R2
+vtb_example
+R4
+!i10b 1
+!s100 n^UMkKLk7hCe]hohB>k=53
+IgKL6eC=RheA=MCGGo`>k52
+R5
+R6
+w1649421551
+8D:\VS_Code_Verilog\Assignment_5\tb_example.v
+FD:\VS_Code_Verilog\Assignment_5\tb_example.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_5\tb_example.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\tb_example.v|
+!i113 0
+R9
+R2
+vtb_parallel_to_serial
+R10
+!i10b 1
+!s100 XSBgaQk>@WCGmAdEQK6Fk2
+I]=m7a6oaG83DXiP:BS9F`1
+R5
+R6
+w1649416954
+8D:\VS_Code_Verilog\Assignment_5\tb_parallel_to_serial.v
+FD:\VS_Code_Verilog\Assignment_5\tb_parallel_to_serial.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 D:\VS_Code_Verilog\Assignment_5\tb_parallel_to_serial.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\tb_parallel_to_serial.v|
+!i113 0
+R9
+R2
+vtb_s74194
+R10
+!i10b 1
+!s100 hS>RAVB]RVHFJo2YO5;7F0
+IegTL=M:GN;KFjPA44=dgB0
+R5
+R6
+w1649418251
+8D:\VS_Code_Verilog\Assignment_5\tb_s74194.v
+FD:\VS_Code_Verilog\Assignment_5\tb_s74194.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 D:\VS_Code_Verilog\Assignment_5\tb_s74194.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_5\tb_s74194.v|
+!i113 0
+R9
+R2

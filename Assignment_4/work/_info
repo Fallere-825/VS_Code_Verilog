@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VS_Code_Verilog/Assignment_3
+T_opt
+!s110 1648733020
+VO_9T^_geKCa]kPCKC2<XN0
+04 15 4 work tb_monitor_1001 fast 0
+=1-98fa9b43f53b-6245ab5b-3a6-7010
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1648731573
+VJj3Bd>2dK=gYD71MfU=KS1
+04 17 4 work monitor_1001_test fast 0
+=1-98fa9b43f53b-6245a5b5-c-6e48
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1648731376
+V3@X?4Z:BzFiN?f^do]JFJ1
+04 12 4 work monitor_1001 fast 0
+=1-98fa9b43f53b-6245a4ef-2d1-6fa0
+R1
+R2
+n@_opt2
+R3
+R0
+vmonitor_1001
+Z4 !s110 1648734380
+!i10b 1
+!s100 PXN7O`JQ`C3^fW:9UT4kB3
+I8m[5=;6Jh60DCZmUNXn:T0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/VS_Code_Verilog/Assignment_4
+w1648732546
+8D:/VS_Code_Verilog/Assignment_4/monitor_1001.v
+FD:/VS_Code_Verilog/Assignment_4/monitor_1001.v
+L0 1
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1648734380.000000
+!s107 D:/VS_Code_Verilog/Assignment_4/monitor_1001.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Assignment_4/monitor_1001.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_monitor_1001
+R4
+!i10b 1
+!s100 VCZRW_?WW03mgzI0F[ZfQ0
+In1FE_G3]Ac2lAU0cb;1[W3
+R5
+R6
+w1648732988
+8D:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v
+FD:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Assignment_4\tb_monitor_1001.v|
+!i113 0
+R9
+R2

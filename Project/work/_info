@@ -1,0 +1,149 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VS_Code_Verilog/Assignment_5
+T_opt
+!s110 1651930978
+VJJljlHjI7k:b]ePEF6UJS0
+04 16 4 work tb_Traffic_Light fast 0
+=1-98fa9b43f53b-62767762-ea-49f4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+T_opt1
+!s110 1651502120
+VOzlaHg_o]K5OZbPFA7@W83
+04 12 4 work tb_Adder_CLA fast 0
+=1-98fa9b43f53b-626fec28-303-7f7c
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1651578159
+V>UA_V:BZkkn7LCOP007:10
+04 13 4 work Traffic_Light fast 0
+=1-98fa9b43f53b-6271152f-15a-9c8c
+R1
+R2
+n@_opt2
+R3
+R0
+vAdder_CLA
+Z4 !s110 1651930971
+!i10b 1
+!s100 K00kTa2M4l6BH9LKSDYUb2
+Ik_c0;4;@DX]fzbKOJ8GBD1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/VS_Code_Verilog/Project
+w1651594245
+8D:/VS_Code_Verilog/Project/Adder_CLA.v
+FD:/VS_Code_Verilog/Project/Adder_CLA.v
+L0 2
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1651930971.000000
+!s107 D:/VS_Code_Verilog/Project/Adder_CLA.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Project/Adder_CLA.v|
+!i113 0
+Z9 o-work work
+R2
+n@adder_@c@l@a
+vAdder_CLA4
+R4
+!i10b 1
+!s100 czn>6]dMjnLXfK<obG3CE3
+IY=<PQ@50QWBQzQV2elY5I0
+R5
+R6
+w1651501198
+8D:/VS_Code_Verilog/Project/Adder_CLA4.v
+FD:/VS_Code_Verilog/Project/Adder_CLA4.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VS_Code_Verilog/Project/Adder_CLA4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Project/Adder_CLA4.v|
+!i113 0
+R9
+R2
+n@adder_@c@l@a4
+vtb_Adder_CLA
+R4
+!i10b 1
+!s100 U];X^bJbKPZYZ>o6=D3Hc3
+I77SmGOj`z?Aj@A[eeElFJ3
+R5
+R6
+w1651502103
+8D:/VS_Code_Verilog/Project/tb_Adder_CLA.v
+FD:/VS_Code_Verilog/Project/tb_Adder_CLA.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VS_Code_Verilog/Project/tb_Adder_CLA.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Project/tb_Adder_CLA.v|
+!i113 0
+R9
+R2
+ntb_@adder_@c@l@a
+vtb_Traffic_Light
+R4
+!i10b 1
+!s100 [[l>8OoWih=Q9M@lCNT`>0
+IUO5g]S[He3_3idNk3nI9B1
+R5
+R6
+w1651731568
+8D:/VS_Code_Verilog/Project/tb_Traffic_Light.v
+FD:/VS_Code_Verilog/Project/tb_Traffic_Light.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VS_Code_Verilog/Project/tb_Traffic_Light.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Project/tb_Traffic_Light.v|
+!i113 0
+R9
+R2
+ntb_@traffic_@light
+vTraffic_Light
+R4
+!i10b 1
+!s100 MgGF1:o[7_B12W1:=5YK^2
+I;GZIb9zLf@355S@aeF5T_0
+R5
+R6
+w1651681148
+8D:/VS_Code_Verilog/Project/Traffic_Light.v
+FD:/VS_Code_Verilog/Project/Traffic_Light.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VS_Code_Verilog/Project/Traffic_Light.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Project/Traffic_Light.v|
+!i113 0
+R9
+R2
+n@traffic_@light
