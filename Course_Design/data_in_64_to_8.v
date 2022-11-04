@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 
-/* 输入并行64位数据转并行8位数据输出模块 */
+/* 输入 并行64位数据 转 并行8位数据 输出 模块 */
 
 module data_in_64_to_8 (output reg [7:0] data_8,   // 输出8位并行数据
                         output reg tx_enable,      // tx开始新一轮工作使能信号

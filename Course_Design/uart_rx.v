@@ -114,18 +114,18 @@ always @(posedge clk or negedge rst_n) begin
 end
 
 /* 数据接收完成标志控制与数据输出 */
-// 数据接收完成后给出标志信号，并输出寄存器rx_data中接收到的数据
+// 数据接收完成后给出标志信号，并输出寄存器rx_data中接收到的新的8 bit数据
 always @(posedge clk or negedge rst_n) begin
     if (!rst_n) begin
         uart_data_out <= 8'd0;
         uart_done     <= 1'b0;
     end
     else if (rx_count == 4'd10) begin // 接收完起始位 + 8 bit数据 + 停止位
-        uart_data_out <= rx_data;     // 输出寄存器rx_data中接收到的8 bit数据
+        uart_data_out <= rx_data;     // 输出寄存器rx_data中接收到的新的8 bit数据
         uart_done     <= 1'b1;        // 数据接收完成标志信号拉高，输出一个高电平脉冲
     end
     else begin
-        uart_data_out <= 8'd0;
+        uart_data_out <= uart_data_out;
         uart_done     <= 1'b0;
     end
 end
