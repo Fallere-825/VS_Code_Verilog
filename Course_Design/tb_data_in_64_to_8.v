@@ -142,6 +142,7 @@ module tb_data_in_64_to_8();
         
         
         #86810
+        #40
         $stop;
     end
     

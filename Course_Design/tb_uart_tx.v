@@ -64,6 +64,7 @@ module tb_uart_tx();
         tx_enable = 0;
         
         #86810
+        #40
         $stop;
     end
     

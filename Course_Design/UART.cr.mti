@@ -26,7 +26,7 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 Top level modules:
 	top
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/uart_rx.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/uart_rx.v
+} {} {}} D:/VS_Code_Verilog/Course_Design/uart_rx.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\uart_rx.v}
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module uart_rx
 
@@ -54,13 +54,6 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 Top level modules:
 	tb_top
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/tb_uart_rx.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_uart_rx.v
-Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
--- Compiling module tb_uart_rx
-
-Top level modules:
-	tb_uart_rx
-
 } {} {}} D:/VS_Code_Verilog/Course_Design/top_out.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/top_out.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module top_out
@@ -74,5 +67,12 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 
 Top level modules:
 	data_out_8_to_64
+
+} {} {}} D:/VS_Code_Verilog/Course_Design/tb_uart_tx.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\tb_uart_tx.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_uart_tx
+
+Top level modules:
+	tb_uart_tx
 
 } {} {}}
