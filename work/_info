@@ -381,6 +381,27 @@ r1
 !i113 0
 R3
 R4
+vtb_data_out_8_to_64
+!s110 1667655924
+!i10b 1
+!s100 `9<E;FR0<HT5Ag^cnAkHf0
+I8D3iFeJf6hM;K1D:01dI<1
+R0
+R11
+w1667655924
+8d:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v
+Fd:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1667655924.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v|
+!i113 0
+R3
+R4
 vtb_monitor_1001
 !s110 1667498846
 !i10b 1
