@@ -1,4 +1,4 @@
-D:/VS_Code_Verilog/Course_Design/tb_top_in.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_in.v
+D:/VS_Code_Verilog/Course_Design/tb_top_in.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\tb_top_in.v}
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module tb_top_in
 

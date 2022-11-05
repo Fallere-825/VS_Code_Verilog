@@ -47,10 +47,12 @@ always @(posedge clk or negedge rst_n) begin
         end
         else begin
             state <= state + 1'b1; // 当前输出的组数加1
+            data  <= data;
         end
     end
     else begin // 还没有到可以输出下一组数据的时刻
         state <= state;
+        data  <= data;
     end
 end
 
@@ -78,7 +80,7 @@ always @(posedge clk or negedge rst_n) begin
             4'd7:
             data_8 <= data[63:56]; // 输出64位数据中最高的一组8位数据
             default:
-            data_8 <= 64'd0;
+            data_8 <= 8'd0;
         endcase
     end
 end
