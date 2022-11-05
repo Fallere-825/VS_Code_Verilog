@@ -19,10 +19,10 @@ n@_opt
 Z3 OL;O;10.5;63
 R0
 T_opt1
-!s110 1667646873
-VZIV5;_1<Hoc`A=1];?N8h0
+!s110 1667647927
+V]3EC8:NaTFn^hikA:7DZh1
 04 6 4 work tb_top fast 0
-=107-98fa9b43f53b-63664599-332-fd04
+=1-98fa9b43f53b-636649b7-1d7-12a38
 R1
 R2
 n@_opt1
@@ -39,65 +39,65 @@ n@_opt2
 R3
 R0
 vdata_in_64_to_8
-Z4 !s110 1667646966
+Z4 !s110 1667648279
 !i10b 1
 !s100 ab:VziPSWL;`CUB?6V_GC0
-Ic[nZ^am^cKDNN@go>@G0L1
+Il>E?B0Xh_e323C3SedSSb3
 Z5 VDg1SIo80bB@j0V0VzS_@n1
 Z6 dD:/VS_Code_Verilog/Course_Design
 w1667642403
-8D:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v
-FD:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v
+8D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v
+FD:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v
 L0 5
 Z7 OL;L;10.5;63
 r1
 !s85 0
 31
-Z8 !s108 1667646966.000000
-!s107 D:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v|
+Z8 !s108 1667648279.000000
+!s107 D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v|
 !i113 0
 Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R2
 vdata_out_8_to32
-Z10 !s110 1667646968
+!s110 1667648280
 !i10b 1
 !s100 4z@_OMD@M8IMM_7Z=]z?]3
-ICQSojWCcC5`Nl:Ah^jYiV3
+I`HHki[cG:4ilX]9mI0MEO0
 R5
 R6
 w1667498186
-8D:\VS_Code_Verilog\Course_Design\data_out_8_to32.v
-FD:\VS_Code_Verilog\Course_Design\data_out_8_to32.v
+8D:/VS_Code_Verilog/Course_Design/data_out_8_to32.v
+FD:/VS_Code_Verilog/Course_Design/data_out_8_to32.v
 L0 3
 R7
 r1
 !s85 0
 31
-Z11 !s108 1667646968.000000
-!s107 D:\VS_Code_Verilog\Course_Design\data_out_8_to32.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\data_out_8_to32.v|
+!s108 1667648280.000000
+!s107 D:/VS_Code_Verilog/Course_Design/data_out_8_to32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/data_out_8_to32.v|
 !i113 0
 R9
 R2
 vdata_out_8_to_64
-R10
+Z10 !s110 1667648282
 !i10b 1
 !s100 J1[z3jFTYBBnRGFFKBa=30
-IYAU;`PgIlUQZBBXMIj9U>3
+IiB<mPRCJTIM]m?52FXhP]1
 R5
 R6
 w1667646963
-8D:\VS_Code_Verilog\Course_Design\data_out_8_to_64.v
-FD:\VS_Code_Verilog\Course_Design\data_out_8_to_64.v
+8D:/VS_Code_Verilog/Course_Design/data_out_8_to_64.v
+FD:/VS_Code_Verilog/Course_Design/data_out_8_to_64.v
 L0 5
 R7
 r1
 !s85 0
 31
-R11
-!s107 D:\VS_Code_Verilog\Course_Design\data_out_8_to_64.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\data_out_8_to_64.v|
+Z11 !s108 1667648282.000000
+!s107 D:/VS_Code_Verilog/Course_Design/data_out_8_to_64.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/data_out_8_to_64.v|
 !i113 0
 R9
 R2
@@ -126,46 +126,46 @@ vtb_top
 R10
 !i10b 1
 !s100 aIK4RHVZjXD<:?<MNiPCf2
-IKJCmc]?3O11e;ViS`aMb^0
+I7:ZG?54RJ7FczEM`b:anL3
 R5
 R6
 w1667576680
-8D:\VS_Code_Verilog\Course_Design\tb_top.v
-FD:\VS_Code_Verilog\Course_Design\tb_top.v
+8D:/VS_Code_Verilog/Course_Design/tb_top.v
+FD:/VS_Code_Verilog/Course_Design/tb_top.v
 L0 3
 R7
 r1
 !s85 0
 31
 R11
-!s107 D:\VS_Code_Verilog\Course_Design\tb_top.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\tb_top.v|
+!s107 D:/VS_Code_Verilog/Course_Design/tb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/tb_top.v|
 !i113 0
 R9
 R2
 vtb_top_in
-!s110 1667646967
+R4
 !i10b 1
 !s100 8XLV3P9f2H?lgj3boZ::[3
-IA_1Ci4UK14LPzfKd9_I6I2
+I]:c`dTaCiMfa`z35][4?O0
 R5
 R6
 R12
-8D:\VS_Code_Verilog\Course_Design\tb_top_in.v
-FD:\VS_Code_Verilog\Course_Design\tb_top_in.v
+8D:/VS_Code_Verilog/Course_Design/tb_top_in.v
+FD:/VS_Code_Verilog/Course_Design/tb_top_in.v
 L0 3
 R7
 r1
 !s85 0
 31
-!s108 1667646967.000000
-!s107 D:\VS_Code_Verilog\Course_Design\tb_top_in.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\tb_top_in.v|
+R8
+!s107 D:/VS_Code_Verilog/Course_Design/tb_top_in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/tb_top_in.v|
 !i113 0
 R9
 R2
 vtb_uart_rx
-Z13 !s110 1667646965
+Z13 !s110 1667648278
 !i10b 1
 !s100 P4aEALALQQ>OSk9W[5PfM3
 I31QDBDWh`TYiFIA14zVmK2
@@ -179,7 +179,7 @@ R7
 r1
 !s85 0
 31
-Z14 !s108 1667646965.000000
+Z14 !s108 1667648278.000000
 !s107 D:/VS_Code_Verilog/Course_Design/tb_uart_rx.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/tb_uart_rx.v|
 !i113 0
@@ -230,14 +230,14 @@ R2
 vtop
 R10
 !i10b 1
-!s100 j6kf]299>o67=3oJM1ImG3
-IN4oehZTGENUaGI;ISDRg92
+!s100 o1LZcAL=`njRRE:o8H36B0
+I]0[g0W1eEY]M6BJ=Xn84D3
 R5
 R6
-R12
+w1667648271
 8D:/VS_Code_Verilog/Course_Design/top.v
 FD:/VS_Code_Verilog/Course_Design/top.v
-L0 3
+L0 5
 R7
 r1
 !s85 0
@@ -252,39 +252,39 @@ vtop_in
 R4
 !i10b 1
 !s100 PY1`l`eQAHFRn[HX4PKoP3
-IEd8>IfND6:7hPFkKP`C1V2
+Ig`=1:PbhVb4JAZ7UccB5B3
 R5
 R6
 R12
-8D:\VS_Code_Verilog\Course_Design\top_in.v
-FD:\VS_Code_Verilog\Course_Design\top_in.v
+8D:/VS_Code_Verilog/Course_Design/top_in.v
+FD:/VS_Code_Verilog/Course_Design/top_in.v
 L0 5
 R7
 r1
 !s85 0
 31
 R8
-!s107 D:\VS_Code_Verilog\Course_Design\top_in.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\top_in.v|
+!s107 D:/VS_Code_Verilog/Course_Design/top_in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/top_in.v|
 !i113 0
 R9
 R2
 vtop_out
-R10
+!s110 1667648281
 !i10b 1
-!s100 3WLb``MgSS7S8C8>4H6ZU1
-Il<]on4IDQZ7j05oCV1_WP0
+!s100 G39l[;3IMk8ZbSWSL]18B3
+I<a?6K@D:W0?G5`2I9]QmU0
 R5
 R6
-R12
+w1667647812
 8D:/VS_Code_Verilog/Course_Design/top_out.v
 FD:/VS_Code_Verilog/Course_Design/top_out.v
-L0 3
+L0 5
 R7
 r1
 !s85 0
 31
-R11
+!s108 1667648281.000000
 !s107 D:/VS_Code_Verilog/Course_Design/top_out.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/top_out.v|
 !i113 0
@@ -298,16 +298,16 @@ I^zUYnz2zR<Ai;1ZBELlaI1
 R5
 R6
 w1667405454
-8D:/VS_Code_Verilog/Course_Design/uart_rx.v
-FD:/VS_Code_Verilog/Course_Design/uart_rx.v
+Z16 8D:/VS_Code_Verilog/Course_Design/uart_rx.v
+Z17 FD:/VS_Code_Verilog/Course_Design/uart_rx.v
 L0 7
 R7
 r1
 !s85 0
 31
-Z16 !s108 1667405463.000000
-!s107 D:/VS_Code_Verilog/Course_Design/uart_rx.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/uart_rx.v|
+Z18 !s108 1667405463.000000
+Z19 !s107 D:/VS_Code_Verilog/Course_Design/uart_rx.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/uart_rx.v|
 !i113 0
 R9
 R2
@@ -315,20 +315,20 @@ vuart_rx
 R13
 !i10b 1
 !s100 ?7<Ak9?e?V7=imhni;@hf0
-I[:B<CXgdF0R;Zf2`fziJT3
+I:[[C:SnoBM8<A?FJaTA4Y3
 R5
 R6
 w1667573458
-8D:\VS_Code_Verilog\Course_Design\uart_rx.v
-FD:\VS_Code_Verilog\Course_Design\uart_rx.v
+R16
+R17
 L0 5
 R7
 r1
 !s85 0
 31
 R14
-!s107 D:\VS_Code_Verilog\Course_Design\uart_rx.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\uart_rx.v|
+R19
+R20
 !i113 0
 R9
 R2
@@ -340,16 +340,16 @@ IKL49ll5AfcN>g6>12_0J;0
 R5
 R6
 w1667405456
-Z17 8D:\VS_Code_Verilog\Course_Design\uart_tx.v
-Z18 FD:\VS_Code_Verilog\Course_Design\uart_tx.v
+8D:\VS_Code_Verilog\Course_Design\uart_tx.v
+FD:\VS_Code_Verilog\Course_Design\uart_tx.v
 L0 8
 R7
 r1
 !s85 0
 31
-R16
-Z19 !s107 D:\VS_Code_Verilog\Course_Design\uart_tx.v|
-Z20 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\uart_tx.v|
+R18
+!s107 D:\VS_Code_Verilog\Course_Design\uart_tx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\uart_tx.v|
 !i113 0
 R9
 R2
@@ -357,20 +357,20 @@ vuart_tx
 R13
 !i10b 1
 !s100 6jYBnfB8CCY6T9iJgP2b:2
-I[QZE?O=^BBOI4koonM4Gl1
+I<O9:9DZnGZ]KOn`ilR`R<0
 R5
 R6
 w1667569659
-R17
-R18
+8D:/VS_Code_Verilog/Course_Design/uart_tx.v
+FD:/VS_Code_Verilog/Course_Design/uart_tx.v
 L0 5
 R7
 r1
 !s85 0
 31
 R14
-R19
-R20
+!s107 D:/VS_Code_Verilog/Course_Design/uart_tx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/uart_tx.v|
 !i113 0
 R9
 R2
