@@ -29,17 +29,16 @@ n@_opt1
 R3
 R0
 T_opt2
-!s110 1667653779
-V:hK6KC8hkVI3[:eIYfHVL3
-04 18 4 work tb_data_in_64_to_8 fast 0
-=1-98fa9b43f53b-63666093-24a-12aa0
+!s110 1667656583
+V3PDj:PdeLT@]?eXYc`Fc10
+04 9 4 work tb_top_in fast 0
+=1-98fa9b43f53b-63666b86-392-120f0
 R1
 R2
 n@_opt2
 R3
-R0
 vdata_in_64_to_8
-Z4 !s110 1667655933
+Z4 !s110 1667656574
 !i10b 1
 !s100 ab:VziPSWL;`CUB?6V_GC0
 Il>E?B0Xh_e323C3SedSSb3
@@ -53,7 +52,7 @@ Z7 OL;L;10.5;63
 r1
 !s85 0
 31
-Z8 !s108 1667655933.000000
+Z8 !s108 1667656574.000000
 !s107 D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v|
 !i113 0
@@ -123,7 +122,7 @@ R8
 R9
 R2
 vtb_data_out_8_to_64
-Z12 !s110 1667655934
+Z12 !s110 1667656575
 !i10b 1
 !s100 `9<E;FR0<HT5Ag^cnAkHf0
 I496IBMeI:9o0SGcmZCz`l1
@@ -137,7 +136,7 @@ R7
 r1
 !s85 0
 31
-Z13 !s108 1667655934.000000
+Z13 !s108 1667656575.000000
 !s107 D:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v|
 !i113 0
@@ -167,21 +166,21 @@ R2
 vtb_top_in
 R4
 !i10b 1
-!s100 8XLV3P9f2H?lgj3boZ::[3
-I]:c`dTaCiMfa`z35][4?O0
+!s100 97SnZ]3WE>P@^1ilgk9Z?0
+IaG0dWHQJ`ZKHNmVBflgR=0
 R5
 R6
-Z14 w1667497805
-8D:/VS_Code_Verilog/Course_Design/tb_top_in.v
-FD:/VS_Code_Verilog/Course_Design/tb_top_in.v
+w1667656571
+8D:\VS_Code_Verilog\Course_Design\tb_top_in.v
+FD:\VS_Code_Verilog\Course_Design\tb_top_in.v
 L0 3
 R7
 r1
 !s85 0
 31
 R8
-!s107 D:/VS_Code_Verilog/Course_Design/tb_top_in.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VS_Code_Verilog/Course_Design/tb_top_in.v|
+!s107 D:\VS_Code_Verilog\Course_Design\tb_top_in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VS_Code_Verilog\Course_Design\tb_top_in.v|
 !i113 0
 R9
 R2
@@ -234,7 +233,7 @@ R10
 INEkVhBiQRR2m9hIok5J^T3
 R5
 R6
-R14
+Z14 w1667497805
 8D:/VS_Code_Verilog/Course_Design/tb_uart_tx_to_rx.v
 FD:/VS_Code_Verilog/Course_Design/tb_uart_tx_to_rx.v
 L0 3
@@ -249,7 +248,7 @@ R11
 R9
 R2
 vtop
-R4
+R12
 !i10b 1
 !s100 o1LZcAL=`njRRE:o8H36B0
 I]0[g0W1eEY]M6BJ=Xn84D3

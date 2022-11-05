@@ -9,74 +9,46 @@ module tb_top_in();
     // top_in Inputs
     reg   clk             = 0 ;
     reg   rst_n           = 0 ;
-    reg   manual_start    = 0 ;
     reg   [63:0]  data_64 = 0 ;
-    reg   [7:0] rx_check  = 0 ;
+    reg   manual_start    = 0 ;
     
     // top_in Outputs
     wire  uart_txd                             ;
-    wire uart_data_out0;
-    wire uart_done;
     
-    integer i = 0;
     
-    parameter BIT_PERIOD = 8681;
-    
-    always #(PERIOD/2)  clk = ~clk;
-    
+    initial
+    begin
+        forever #(PERIOD/2)  clk = ~clk;
+    end
     
     top_in  u_top_in (
     .clk                     (clk),
     .rst_n                   (rst_n),
-    .manual_start            (manual_start),
     .data_64                 (data_64       [63:0]),
+    .manual_start            (manual_start),
     
     .uart_txd                (uart_txd)
-    );
-    
-    
-    uart_rx
-    u_uart_rx (
-    .clk                     (clk),
-    .rst_n                   (rst_n),
-    .uart_rxd                (uart_txd),
-    
-    .uart_data_out           (uart_data_out),
-    .uart_done               (uart_done)
     );
     
     initial
     begin
         #20
-        rst_n        = 1'b1;
-        data_64      = 64'b1000_0001_1010_0011_0100_1101_0110_1111_1111_0110_1011_0010_1100_0101_1000_0001;
-        manual_start = 1'b1;
+        rst_n = 1;
         
+        /* 传输第一个64位数据 */
+        data_64      = 64'b0010_1100_1111_1111_0000_1010_1110_1111_1000_1010_1110_0001_0110_1000_0110_0101;
+        manual_start = 1;
+        #40
+        manual_start = 0;
         
-        
-        
-        
-        
-        
+        /* 传输第二个64位数据 */
+        #86810
+        data_64 = 64'b1110_0100_0010_1001_1111_0110_0101_0111_1010_0111_1100_0010_1101_1011_0111_1000;
         
         #868100
-        #(86810 * 2)
+        #868100
+        #40
         $stop;
     end
-    
-    /* always @(posedge clk) begin
-     wait (uart_txd == 0);
-     rx_check <= 7'd0;
-     #(BIT_PERIOD)
-     #(BIT_PERIOD / 2)
-     
-     for (i = 0; i < 8; i = i + 1) begin
-     rx_check[i] <= uart_txd;
-     if (i < 7) begin
-     #(BIT_PERIOD);
-     end
-     end
-     end */
-    
     
 endmodule
