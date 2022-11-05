@@ -193,12 +193,12 @@ r1
 R3
 R4
 vdata_out_8_to32
-!s110 1667499133
+!s110 1667649225
 !i10b 1
 !s100 4z@_OMD@M8IMM_7Z=]z?]3
 I>nmggKnezGFnc4<fhm>9P0
 R0
-R5
+R11
 w1667498186
 8d:\VS_Code_Verilog\Course_Design\data_out_8_to32.v
 Fd:\VS_Code_Verilog\Course_Design\data_out_8_to32.v
@@ -207,7 +207,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667499133.000000
+!s108 1667649225.000000
 !s107 d:\VS_Code_Verilog\Course_Design\data_out_8_to32.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\data_out_8_to32.v|
 !i113 0
@@ -361,13 +361,13 @@ r1
 R3
 R4
 vtb_data_in_64_to_8
-!s110 1667462179
+!s110 1667651726
 !i10b 1
-!s100 R:oZ<d=NY2YL]fK1TXlDS0
-I2<YY<72Im^ZaK818AfNaI0
+!s100 o=Q4ZHahJWnTGD=nVPF8M3
+ISAJn6@l7d8:BC>2;<DQ^R0
 R0
-R5
-w1667396058
+R11
+w1667651726
 8d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v
 Fd:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v
 L0 3
@@ -375,7 +375,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667462179.000000
+!s108 1667651726.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v|
 !i113 0
@@ -403,7 +403,7 @@ r1
 R3
 R4
 vtb_top
-!s110 1667576680
+!s110 1667649193
 !i10b 1
 !s100 aIK4RHVZjXD<:?<MNiPCf2
 I1jR>b@SYMDa1n@:hVXT@<1
@@ -417,7 +417,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667576680.000000
+!s108 1667649193.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_top.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top.v|
 !i113 0
@@ -509,13 +509,13 @@ r1
 R3
 R4
 vtb_uart_tx_to_rx
-!s110 1667458917
+!s110 1667649271
 !i10b 1
 !s100 Uj<Z:cdID15;]>_?kZYIW0
 IhT6fiQlYW5G@jik70TZBR3
 R0
-R5
-w1667458917
+R11
+R16
 8d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v
 Fd:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v
 L0 3
@@ -523,7 +523,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667458917.000000
+!s108 1667649271.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v|
 !i113 0
@@ -847,13 +847,13 @@ R15
 R3
 R4
 vuart_tx_to_rx
-!s110 1667458748
+!s110 1667649330
 !i10b 1
 !s100 EfYN:m:22Y3kB2KHdXKUR3
 ILScI3Nzf07ZoWMYUD4cLS1
 R0
-R5
-w1667458748
+R11
+R16
 8d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v
 Fd:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v
 L0 3
@@ -861,7 +861,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667458748.000000
+!s108 1667649330.000000
 !s107 d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v|
 !i113 0
