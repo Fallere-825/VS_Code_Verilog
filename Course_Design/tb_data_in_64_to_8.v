@@ -37,12 +37,13 @@ module tb_data_in_64_to_8();
     initial
     begin
         #20
+        rst_n = 1;
+        
+        
         /* 测试传输一个64位数据 */
         /* 传输第一组8位数据 */
-        rst_n          = 1;
-        data_64        = 64'hbb941c2b7e1d731b;
-        data_in_enable = 0;
-        manual_start   = 1;
+        data_64      = 64'hbb941c2b7e1d731b;
+        manual_start = 1;
         #40
         manual_start = 0;
         
