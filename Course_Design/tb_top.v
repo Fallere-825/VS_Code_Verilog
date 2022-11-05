@@ -14,80 +14,47 @@ module tb_top();
     
     // top Outputs
     wire  [63:0]  data_out_64                  ;
+    wire  data_out_done                        ;
     
     
-    
-    always #(PERIOD/2)  clk = ~clk;
-    
+    initial
+    begin
+        forever #(PERIOD/2)  clk = ~clk;
+    end
     
     top  u_top (
     .clk                     (clk),
     .rst_n                   (rst_n),
     .manual_start            (manual_start),
-    .data_in_64              (data_in_64    [63:0]),
+    .data_in_64              (data_in_64     [63:0]),
     
-    .data_out_64             (data_out_64   [63:0])
+    .data_out_64             (data_out_64    [63:0]),
+    .data_out_done           (data_out_done)
     );
     
     initial
     begin
         #20
-        rst_n        = 1'b1;
-        data_in_64   = 64'b1010_0001_1010_0011_0100_1101_0110_1111_1111_0110_1011_0010_1100_0101_1000_0001;
-        manual_start = 1'b1;
+        rst_n = 1'b1;
         
+        /* 传输第一个64位数据 */
+        data_in_64   = 64'h2d7e66091ed0a403;
+        manual_start = 1;
+        #40
+        manual_start = 0;
         
+        /* 传输第二个64位数据 */
+        #86810
+        data_in_64 = 64'hd253328dd2c0fc3c;
         
-        
-        
-        
-        
-        
-        // #40
-        // #8681
-        // #8681
-        // #8681
-        // #8681
-        #(86810 * 8)
-        #(20 * 28)
-        #10
-        // manual_start = 1'b0;
-        #10
-        #(8681 * 9)
-        // #(86810 * 6)
-        
-        
-        rst_n        = 1'b1;
-        data_in_64   = 64'b0100_0100_0010_0011_0011_1110_0111_1001_0100_0111_1001_0100_0010_0111_1111_0111;
-        manual_start = 1'b1;
-        
-        
-        
-        
+        /* 传输第三个64位数据 */
+        #868100
+        data_in_64 = 64'h8162476652bdd1d0;
         
         #868100
-        #(86810 * 4)
         #868100
-        
-        
-        
-        
-        
-        
-        
-        
+        #40
         $stop;
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
     end
     
 endmodule
