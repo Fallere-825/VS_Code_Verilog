@@ -9,12 +9,16 @@ module tb_top();
     // top Inputs
     reg   clk                = 0 ;
     reg   rst_n              = 0 ;
-    reg   manual_start       = 0 ;
     reg   [63:0]  data_in_64 = 0 ;
+    reg   manual_start       = 0 ;
     
     // top Outputs
     wire  [63:0]  data_out_64                  ;
     wire  data_out_done                        ;
+    
+    
+    /* 定义线网 */
+    wire data; // tx传输给rx的1位数据
     
     
     initial
@@ -25,9 +29,11 @@ module tb_top();
     top  u_top (
     .clk                     (clk),
     .rst_n                   (rst_n),
-    .manual_start            (manual_start),
     .data_in_64              (data_in_64     [63:0]),
+    .manual_start            (manual_start),
+    .uart_rxd                (data),
     
+    .uart_txd                (data),
     .data_out_64             (data_out_64    [63:0]),
     .data_out_done           (data_out_done)
     );
