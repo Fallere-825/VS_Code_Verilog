@@ -11,7 +11,17 @@ module top (output wire uart_txd,           // UART发送端口
             input wire manual_start,        // 手动启动系统信号
             input wire uart_rxd);           // UART接收端口
     
-    top_in  u_top_in (
+    // top_in Parameters
+    // top_out Parameters
+    parameter CLK_F    = 50_000_000      ;
+    parameter UART_BPS = 115200          ;
+    parameter CLK_GOAL = CLK_F / UART_BPS;
+    
+    top_in #(
+    .CLK_F    (CLK_F),
+    .UART_BPS (UART_BPS),
+    .CLK_GOAL (CLK_F / UART_BPS))
+    u_top_in (
     .clk                     (clk),
     .rst_n                   (rst_n),
     .data_64                 (data_in_64),
@@ -20,7 +30,11 @@ module top (output wire uart_txd,           // UART发送端口
     .uart_txd                (uart_txd)
     );
     
-    top_out  u_top_out (
+    top_out #(
+    .CLK_F    (CLK_F),
+    .UART_BPS (UART_BPS),
+    .CLK_GOAL (CLK_F / UART_BPS))
+    u_top_out (
     .clk                     (clk),
     .rst_n                   (rst_n),
     .uart_rxd                (uart_rxd),

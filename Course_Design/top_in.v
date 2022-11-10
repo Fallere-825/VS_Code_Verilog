@@ -8,6 +8,11 @@ module top_in (output wire uart_txd,      // UART发送端口
                input wire [63:0] data_64, // 输入64位并行数据
                input wire manual_start);  // 手动启动系统信号
     
+    // uart_tx Parameters
+    parameter CLK_F    = 50_000_000      ;
+    parameter UART_BPS = 115200          ;
+    parameter CLK_GOAL = CLK_F / UART_BPS;
+    
     /* 定义线网 */
     wire [7:0] data_8; // 【64位转8位模块】传给【tx】的8位并行数据
     wire tx_done;      // tx发送完成标志，让64位转8位模块送来新的一组8位数据
@@ -24,7 +29,11 @@ module top_in (output wire uart_txd,      // UART发送端口
     .tx_enable               (tx_enable)
     );
     
-    uart_tx      u_uart_tx (
+    uart_tx #(
+    .CLK_F    (CLK_F),
+    .UART_BPS (UART_BPS),
+    .CLK_GOAL (CLK_F / UART_BPS))
+    u_uart_tx (
     .clk                     (clk),
     .rst_n                   (rst_n),
     .tx_enable               (tx_enable),

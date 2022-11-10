@@ -3,8 +3,10 @@
 module tb_top();
     
     // top Parameters
-    parameter PERIOD = 20;
-    
+    parameter PERIOD   = 20;
+    parameter CLK_F    = 50_000_000      ;
+    parameter UART_BPS = 115200          ;
+    parameter CLK_GOAL = CLK_F / UART_BPS;
     
     // top Inputs
     reg   clk                = 0 ;
@@ -26,7 +28,11 @@ module tb_top();
         forever #(PERIOD/2)  clk = ~clk;
     end
     
-    top  u_top (
+    top #(
+    .CLK_F    (CLK_F),
+    .UART_BPS (UART_BPS),
+    .CLK_GOAL (CLK_GOAL))
+    u_top (
     .clk                     (clk),
     .rst_n                   (rst_n),
     .data_in_64              (data_in_64     [63:0]),

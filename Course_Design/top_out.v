@@ -8,11 +8,20 @@ module top_out (output wire [63:0] data_64, // 输出64位并行数据
                 input wire rst_n,           // 复位信号，低电平有效
                 input wire uart_rxd);       // UART接收端口
 
+// uart_rx Parameters
+parameter CLK_F    = 50_000_000      ;
+parameter UART_BPS = 115200          ;
+parameter CLK_GOAL = CLK_F / UART_BPS;
+
 /* 定义线网 */
 wire [7:0] uart_data_out; // 【rx】传给【8位转64位模块】的8位并行数据
 wire uart_done;           // rx数据接收完成标志，让8位转64位模块读入新到的一组8位数据
 
-uart_rx  u_uart_rx (
+uart_rx #(
+.CLK_F    (CLK_F),
+.UART_BPS (UART_BPS),
+.CLK_GOAL (CLK_F / UART_BPS))
+u_uart_rx (
 .clk                     (clk),
 .rst_n                   (rst_n),
 .uart_rxd                (uart_rxd),
