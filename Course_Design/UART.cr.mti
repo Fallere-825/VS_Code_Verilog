@@ -1,25 +1,46 @@
-D:/VS_Code_Verilog/Course_Design/top_in.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\top_in.v}
+D:/VS_Code_Verilog/Course_Design/tb_top_in.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_in.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top_in
+
+Top level modules:
+	tb_top_in
+
+} {} {}} D:/VS_Code_Verilog/Course_Design/tb_top_out.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_out.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top_out
+
+Top level modules:
+	tb_top_out
+
+} {} {}} D:/VS_Code_Verilog/Course_Design/tb_top_55MHz_to_45MHz.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_55MHz_to_45MHz.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top_55MHz_to_45MHz
+
+Top level modules:
+	tb_top_55MHz_to_45MHz
+
+} {} {}} D:/VS_Code_Verilog/Course_Design/top_in.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/top_in.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module top_in
 
 Top level modules:
 	top_in
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\data_in_64_to_8.v}
+} {} {}} D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/data_in_64_to_8.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module data_in_64_to_8
 
 Top level modules:
 	data_in_64_to_8
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/top.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\top.v}
+} {} {}} D:/VS_Code_Verilog/Course_Design/top.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/top.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module top
 
 Top level modules:
 	top
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/uart_rx.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\uart_rx.v}
+} {} {}} D:/VS_Code_Verilog/Course_Design/uart_rx.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/uart_rx.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module uart_rx
 
@@ -33,12 +54,19 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 Top level modules:
 	tb_data_in_64_to_8
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/uart_tx.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\uart_tx.v}
+} {} {}} D:/VS_Code_Verilog/Course_Design/uart_tx.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/uart_tx.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module uart_tx
 
 Top level modules:
 	uart_tx
+
+} {} {}} D:/VS_Code_Verilog/Course_Design/tb_top_40MHz_to_60MHz.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_40MHz_to_60MHz.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top_40MHz_to_60MHz
+
+Top level modules:
+	tb_top_40MHz_to_60MHz
 
 } {} {}} D:/VS_Code_Verilog/Course_Design/tb_data_out_8_to_64.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_data_out_8_to_64.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
@@ -47,7 +75,14 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 Top level modules:
 	tb_data_out_8_to_64
 
-} {} {}} D:/VS_Code_Verilog/Course_Design/top_out.v {1 {vlog -work work -vopt -stats=none {D:\VS_Code_Verilog\Course_Design\top_out.v}
+} {} {}} D:/VS_Code_Verilog/Course_Design/tb_top.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} D:/VS_Code_Verilog/Course_Design/top_out.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/top_out.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module top_out
 

@@ -130,7 +130,7 @@ Z10 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\
 R3
 R4
 vdata_in_64_to_8
-!s110 1668058390
+!s110 1668081111
 !i10b 1
 !s100 ab:VziPSWL;`CUB?6V_GC0
 IJl7B8>>kEzC?82?2zi=5N0
@@ -144,7 +144,7 @@ R2
 r1
 !s85 0
 31
-!s108 1668058390.000000
+!s108 1668081111.000000
 R9
 R10
 !i113 0
@@ -214,7 +214,7 @@ r1
 R3
 R4
 vdata_out_8_to_64
-!s110 1667739207
+!s110 1668084034
 !i10b 1
 !s100 J1[z3jFTYBBnRGFFKBa=30
 IEHH9<1==I@L[KndbE_K>a1
@@ -228,7 +228,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667739207.000000
+!s108 1668084034.000000
 !s107 d:\VS_Code_Verilog\Course_Design\data_out_8_to_64.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\data_out_8_to_64.v|
 !i113 0
@@ -361,7 +361,7 @@ r1
 R3
 R4
 vtb_data_in_64_to_8
-!s110 1667653763
+!s110 1668088613
 !i10b 1
 !s100 Oc^;f@hF_NJ_S=ZA]PQBZ3
 IXTUakjTEW0V[?CJ6gM5eE1
@@ -375,14 +375,14 @@ R2
 r1
 !s85 0
 31
-!s108 1667653763.000000
+!s108 1668088613.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_data_in_64_to_8.v|
 !i113 0
 R3
 R4
 vtb_data_out_8_to_64
-!s110 1667739066
+!s110 1668091583
 !i10b 1
 !s100 `9<E;FR0<HT5Ag^cnAkHf0
 I8D3iFeJf6hM;K1D:01dI<1
@@ -396,7 +396,7 @@ R2
 r1
 !s85 0
 31
-!s108 1667739066.000000
+!s108 1668091583.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_data_out_8_to_64.v|
 !i113 0
@@ -424,28 +424,248 @@ r1
 R3
 R4
 vtb_top
-!s110 1668059311
+!s110 1668095951
 !i10b 1
-!s100 A4jD?<Q9nA8NJ?RVVJ6O03
-ITbKNkSAF;2a<d2>dK`Q=X2
+!s100 E0Y:1cEWS1ffz4;UH3hoz1
+IXb8_QE4RYg1lU<3nG>gE?2
 R0
 R11
-w1668059311
-8d:\VS_Code_Verilog\Course_Design\tb_top.v
-Fd:\VS_Code_Verilog\Course_Design\tb_top.v
+w1668095951
+Z16 8d:\VS_Code_Verilog\Course_Design\tb_top_30MHz_to_70MHz.v
+Z17 Fd:\VS_Code_Verilog\Course_Design\tb_top_30MHz_to_70MHz.v
 L0 3
 R2
 r1
 !s85 0
 31
-!s108 1668059311.000000
-!s107 d:\VS_Code_Verilog\Course_Design\tb_top.v|
-!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top.v|
+!s108 1668095951.000000
+Z18 !s107 d:\VS_Code_Verilog\Course_Design\tb_top_30MHz_to_70MHz.v|
+Z19 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_30MHz_to_70MHz.v|
 !i113 0
 R3
 R4
+vtb_top_30MHz_to_50MHz
+!s110 1668095759
+!i10b 1
+!s100 Sji8B1RITOab=g<Gk<fjS0
+ITza6C1NHDRB<=D8O1SmYl0
+R0
+R11
+w1668095759
+R16
+R17
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668095759.000000
+R18
+R19
+!i113 0
+R3
+R4
+ntb_top_30@m@hz_to_50@m@hz
+vtb_top_30MHz_to_70MHz
+!s110 1668097896
+!i10b 1
+!s100 h_f3b]IkNic78AbFoUdEg2
+ISOedFKZjD:E`N@PflCWF;0
+R0
+R11
+w1668097896
+Z20 8d:\VS_Code_Verilog\Course_Design\tb_top_40MHz_to_60MHz.v
+Z21 Fd:\VS_Code_Verilog\Course_Design\tb_top_40MHz_to_60MHz.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668097896.000000
+Z22 !s107 d:\VS_Code_Verilog\Course_Design\tb_top_40MHz_to_60MHz.v|
+Z23 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_40MHz_to_60MHz.v|
+!i113 0
+R3
+R4
+ntb_top_30@m@hz_to_70@m@hz
+vtb_top_40MHz_to_60MHz
+!s110 1668098542
+!i10b 1
+!s100 1BS8YSa]8Vh7SGV8Vkh2f0
+Ikl79[8QmC=zBGV0Z9ajTh2
+R0
+R11
+w1668098541
+Z24 8d:\VS_Code_Verilog\Course_Design\tb_top_60MHz_to_40MHz.v
+Z25 Fd:\VS_Code_Verilog\Course_Design\tb_top_60MHz_to_40MHz.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668098541.000000
+Z26 !s107 d:\VS_Code_Verilog\Course_Design\tb_top_60MHz_to_40MHz.v|
+Z27 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_60MHz_to_40MHz.v|
+!i113 0
+R3
+R4
+ntb_top_40@m@hz_to_60@m@hz
+vtb_top_40MHz_to_70MHz
+!s110 1668097904
+!i10b 1
+!s100 z@HXWC5P2zo]1bIM9OVPR2
+IMHo_ih`M?Lj_10edRQZ;L3
+R0
+R11
+w1668097904
+R20
+R21
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668097904.000000
+R22
+R23
+!i113 0
+R3
+R4
+ntb_top_40@m@hz_to_70@m@hz
+vtb_top_50MHz
+!s110 1668093637
+!i10b 1
+!s100 gKGYG7R?FdJ@cnzDAUEnF0
+I2<I:0Z?ljZ?`ZDlI1RLT32
+R0
+R11
+w1668093637
+8d:\VS_Code_Verilog\Course_Design\tb_top_50MHz_to_50MHz.v
+Fd:\VS_Code_Verilog\Course_Design\tb_top_50MHz_to_50MHz.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668093637.000000
+!s107 d:\VS_Code_Verilog\Course_Design\tb_top_50MHz_to_50MHz.v|
+!s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_50MHz_to_50MHz.v|
+!i113 0
+R3
+R4
+ntb_top_50@m@hz
+vtb_top_50MHz_to_50MHz
+!s110 1668095755
+!i10b 1
+!s100 @NiW36IWC9fCn`@8@U:@j2
+I36RcRkXZj4]JOU5O9IL782
+R0
+R11
+w1668095755
+R16
+R17
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668095755.000000
+R18
+R19
+!i113 0
+R3
+R4
+ntb_top_50@m@hz_to_50@m@hz
+vtb_top_55MHz_to_40MHz
+!s110 1668098867
+!i10b 1
+!s100 7nJBKXb7zJP5cag1SJND50
+ID_i6AFohZ?^>OA6?oMhDi2
+R0
+R11
+w1668098866
+Z28 8d:\VS_Code_Verilog\Course_Design\tb_top_55MHz_to_45MHz.v
+Z29 Fd:\VS_Code_Verilog\Course_Design\tb_top_55MHz_to_45MHz.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668098867.000000
+Z30 !s107 d:\VS_Code_Verilog\Course_Design\tb_top_55MHz_to_45MHz.v|
+Z31 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_55MHz_to_45MHz.v|
+!i113 0
+R3
+R4
+ntb_top_55@m@hz_to_40@m@hz
+vtb_top_55MHz_to_45MHz
+!s110 1668098874
+!i10b 1
+!s100 nQ8a`o^O`@h2;K[kLOa9@3
+ILl=O97L65]5Fm>Tz9IVjF3
+R0
+R11
+w1668098874
+R28
+R29
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668098874.000000
+R30
+R31
+!i113 0
+R3
+R4
+ntb_top_55@m@hz_to_45@m@hz
+vtb_top_60MHz_to_40MHz
+!s110 1668098861
+!i10b 1
+!s100 hSkm4Z=?N`WjoaL8@I1gQ1
+ISXRKC^IDg;1KzPaP[16Q63
+R0
+R11
+w1668098861
+R28
+R29
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668098861.000000
+R30
+R31
+!i113 0
+R3
+R4
+ntb_top_60@m@hz_to_40@m@hz
+vtb_top_60MHz_to_60MHz
+!s110 1668098546
+!i10b 1
+!s100 Jh3=[i>CJULBS4ZoZ9gUR1
+IO@3F4G[mS^UZ3Ajg4g^hj3
+R0
+R11
+w1668098546
+R24
+R25
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1668098546.000000
+R26
+R27
+!i113 0
+R3
+R4
+ntb_top_60@m@hz_to_60@m@hz
 vtb_top_in
-!s110 1668059243
+!s110 1668092719
 !i10b 1
 !s100 `3;6[5P=f8lj=1lM656<f2
 IW`b34_edC5NMWP6fI;Y^o3
@@ -459,14 +679,14 @@ R2
 r1
 !s85 0
 31
-!s108 1668059243.000000
+!s108 1668092719.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_top_in.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_in.v|
 !i113 0
 R3
 R4
 vtb_top_out
-!s110 1668059281
+!s110 1668093112
 !i10b 1
 !s100 D08DiY5lcT`T04SP0D1Fz0
 IVj>WJ:SLl;9l9ZQ`gco1d0
@@ -480,7 +700,7 @@ R2
 r1
 !s85 0
 31
-!s108 1668059281.000000
+!s108 1668093112.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_top_out.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_top_out.v|
 !i113 0
@@ -509,7 +729,7 @@ R3
 R4
 ntb_@traffic_@light
 vtb_uart_rx
-!s110 1668059187
+!s110 1668090428
 !i10b 1
 !s100 d5U]blbYbJ5Oo`cnUh5]Z3
 IGj4Ofl8PTjTHSJ@]k84]h2
@@ -523,14 +743,14 @@ R2
 r1
 !s85 0
 31
-!s108 1668059187.000000
+!s108 1668090428.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_uart_rx.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_uart_rx.v|
 !i113 0
 R3
 R4
 vtb_uart_tx
-!s110 1668059151
+!s110 1668089590
 !i10b 1
 !s100 <f?C[Lh?7XKif:FX6<<kQ2
 I7zlZU?]zVmm5iCGmY0XJI1
@@ -544,7 +764,7 @@ R2
 r1
 !s85 0
 31
-!s108 1668059151.000000
+!s108 1668089590.000000
 !s107 d:\VS_Code_Verilog\Course_Design\tb_uart_tx.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\tb_uart_tx.v|
 !i113 0
@@ -557,7 +777,7 @@ vtb_uart_tx_to_rx
 IhT6fiQlYW5G@jik70TZBR3
 R0
 R11
-Z16 w1667497805
+Z32 w1667497805
 8d:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v
 Fd:\VS_Code_Verilog\Course_Design\tb_uart_tx_to_rx.v
 L0 3
@@ -593,7 +813,7 @@ r1
 R3
 R4
 vtop
-!s110 1668058973
+!s110 1668095827
 !i10b 1
 !s100 H_URaei7UB3gY7;:6AM[o0
 ICKoU`NHZ8aA4ZAi2=Emo>1
@@ -607,14 +827,14 @@ R2
 r1
 !s85 0
 31
-!s108 1668058973.000000
+!s108 1668095827.000000
 !s107 d:\VS_Code_Verilog\Course_Design\top.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\top.v|
 !i113 0
 R3
 R4
 vtop_in
-!s110 1668058788
+!s110 1668085231
 !i10b 1
 !s100 65VK0XWC5B_>PcF;zFP4G1
 I;b9`UbX:E[b=S?Pfd2CTk0
@@ -628,14 +848,14 @@ R2
 r1
 !s85 0
 31
-!s108 1668058788.000000
+!s108 1668085231.000000
 !s107 d:\VS_Code_Verilog\Course_Design\top_in.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\top_in.v|
 !i113 0
 R3
 R4
 vtop_out
-!s110 1668058844
+!s110 1668086013
 !i10b 1
 !s100 kdO18^TXe4QISaGK=KNH>1
 I?H:zo]>jicX2G0gM[87Ie0
@@ -649,7 +869,7 @@ R2
 r1
 !s85 0
 31
-!s108 1668058844.000000
+!s108 1668086013.000000
 !s107 d:\VS_Code_Verilog\Course_Design\top_out.v|
 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\top_out.v|
 !i113 0
@@ -791,37 +1011,37 @@ IjZG5YT`a9_5_:hfoES?DD0
 R0
 R5
 w1667405479
-Z17 8d:\VS_Code_Verilog\Course_Design\uart_rx.v
-Z18 Fd:\VS_Code_Verilog\Course_Design\uart_rx.v
+Z33 8d:\VS_Code_Verilog\Course_Design\uart_rx.v
+Z34 Fd:\VS_Code_Verilog\Course_Design\uart_rx.v
 L0 7
 R2
 r1
 !s85 0
 31
 !s108 1667405479.000000
-Z19 !s107 d:\VS_Code_Verilog\Course_Design\uart_rx.v|
-Z20 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_rx.v|
+Z35 !s107 d:\VS_Code_Verilog\Course_Design\uart_rx.v|
+Z36 !s90 -nologo|-work|D:\VS_Code_Verilog\work|d:\VS_Code_Verilog\Course_Design\uart_rx.v|
 !i113 0
 R3
 R4
 vuart_rx
-!s110 1668058793
+!s110 1668083486
 !i10b 1
 !s100 ?7<Ak9?e?V7=imhni;@hf0
 I?6R0Y^X<5JdVi7d_XVnLG3
 R0
 R11
 w1667741815
-R17
-R18
+R33
+R34
 L0 5
 R2
 r1
 !s85 0
 31
-!s108 1668058793.000000
-R19
-R20
+!s108 1668083486.000000
+R35
+R36
 !i113 0
 R3
 R4
@@ -868,7 +1088,7 @@ R15
 R3
 R4
 vuart_tx
-!s110 1668058336
+!s110 1668082243
 !i10b 1
 !s100 6jYBnfB8CCY6T9iJgP2b:2
 ILQbl9n_]U3VVdJ>=In]En2
@@ -882,7 +1102,7 @@ R2
 r1
 !s85 0
 31
-!s108 1668058336.000000
+!s108 1668082243.000000
 R14
 R15
 !i113 0
@@ -895,7 +1115,7 @@ vuart_tx_to_rx
 ILScI3Nzf07ZoWMYUD4cLS1
 R0
 R11
-R16
+R32
 8d:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v
 Fd:\VS_Code_Verilog\Course_Design\uart_tx_to_rx.v
 L0 3

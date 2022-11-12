@@ -68,7 +68,7 @@ set_max_area 0
 ##    set design constraints and optimization constraints     ##
 ##                                                            ##
 ################################################################
-create_clock -name "clk" -period 20.0 -waveform [list 0 10] [get_ports clk]
+create_clock -name "clk" -period 20 -waveform [list 0 10] [get_ports clk]
 
 set_ideal_network [get_ports [list  clk]]
 
@@ -131,7 +131,7 @@ report_power  > $REPORT_DIR/power.rpt
 
 report_constraint -all_violators -verbose > $REPORT_DIR/violators.rpt
 
-report_timing -delay max -input_pins  -nets -capacitance -transition_time -slack_lesser_than 10 -max_paths 200 > $REPORT_DIR/timing_setup.rpt
+report_timing -delay max -input_pins  -nets -capacitance -transition_time -slack_lesser_than 1 -max_paths 200 > $REPORT_DIR/timing_setup.rpt
 
 report_timing -delay min -input_pins  -nets -capacitance -transition_time -slack_lesser_than 1 -max_paths 200 > $REPORT_DIR/timing_hold.rpt
 
