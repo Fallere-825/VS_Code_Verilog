@@ -12,6 +12,13 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 Top level modules:
 	tb_top_out
 
+} {} {}} D:/VS_Code_Verilog/Course_Design/tb_top_50MHz_to_50MHz.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_50MHz_to_50MHz.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top_50MHz_to_50MHz
+
+Top level modules:
+	tb_top_50MHz_to_50MHz
+
 } {} {}} D:/VS_Code_Verilog/Course_Design/tb_top_55MHz_to_45MHz.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top_55MHz_to_45MHz.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module tb_top_55MHz_to_45MHz
@@ -74,13 +81,6 @@ Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 
 Top level modules:
 	tb_data_out_8_to_64
-
-} {} {}} D:/VS_Code_Verilog/Course_Design/tb_top.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/tb_top.v
-Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
--- Compiling module tb_top
-
-Top level modules:
-	tb_top
 
 } {} {}} D:/VS_Code_Verilog/Course_Design/top_out.v {1 {vlog -work work -vopt -stats=none D:/VS_Code_Verilog/Course_Design/top_out.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
